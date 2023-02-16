@@ -1,2 +1,3 @@
-unit = input("km or mile: ")
+unit = input("km or mile")
+amount = float(input("amount: "))
 
