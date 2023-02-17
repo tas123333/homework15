@@ -14,4 +14,5 @@ elif number1 > number2:
         print(k)
         k -=3
 else:
-    print("error")
+    print("there is an error")
+
